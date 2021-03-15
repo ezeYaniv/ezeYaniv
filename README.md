@@ -1,9 +1,11 @@
 # Hi, I'm Yaniv.
 
-After 5 years delivering digital solutions for industrial manufacturing problems, I'm pursuing a career in software development. My self-study curriculum consists of online courses combined with personal projects I dream up - I'm a big believer in curiosity and imagination driving the learning process.
+I studied chemical engineering and spent 5 years creating innovative digital solutions for industrial manufacturing problems. I realized I loved learning and successfully implementing new technologies: this led me to pursue a career in software development.  
+
+I created a self-study curriculum consisting of online courses (Udemy, Free Code Camp, Coursera) combined with personal projects to cement those skills. I'm a big believer in curiosity and imagination driving the learning process: my projects come from real problems I want to solve and fun ideas I dream up.
 
 ### Repositories I created recently
-- [Kitchen Calc](https://github.com/ezeYaniv/kitchen-calc) - A web app to multiply recipe ingredients for your desired servings
+- [Kitchen Calc](https://github.com/ezeYaniv/kitchen-calc) - A web app to multiply recipe ingredients for your desired servings ([link to functioning app](https://kitchen-calc.herokuapp.com/))
 
 ### What I'm currently studying
 - MERN stack
