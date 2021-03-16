@@ -6,7 +6,7 @@ I'm following a self-study curriculum consisting of online courses (Udemy, Free 
 
 ### Repositories I created recently
 - [Kitchen Calc](https://github.com/ezeYaniv/kitchen-calc) - A web app to multiply recipe ingredients for your desired servings ([link to functioning app](https://kitchen-calc.herokuapp.com/))
-- [Lorem Pigsum](https://github.com/ezeYaniv/lorem-pigsum) - A web app that generates Lorem Ipsum placeholder text...but in Pig Latin! Arpecay iemday. ([link to functioning app](https://lorem-pigsum.herokuapp.com/))
+- [Lorem Pigsum](https://github.com/ezeYaniv/lorem-pigsum) - A web app that generates Lorem Ipsum placeholder text...but in Pig Latin. Arpecay iemday! ([link to functioning app](https://lorem-pigsum.herokuapp.com/))
 
 ### What I'm currently studying
 - MERN stack
