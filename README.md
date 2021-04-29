@@ -1,6 +1,6 @@
 # Hi, I'm Yaniv.
 
-I studied chemical engineering and spent 5 years creating innovative digital solutions for industrial manufacturing problems. During this time, I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. successfully implementing them to address a business need. This led me to pursue a career in software development.
+I studied chemical engineering and spent 5 years creating innovative digital solutions for industrial manufacturing problems. During this time, I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. successfully implementing them to solve a business need. I crave learning: software development feels like the natural next step in my career.
 
 I'm following a self-study curriculum consisting of online courses (Udemy, Free Code Camp, Coursera) combined with personal projects to cement those skills. I'm a big believer in curiosity and imagination driving the learning process: my projects come from real problems I want to solve and fun ideas I dream up.
 
