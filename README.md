@@ -10,8 +10,9 @@ I'm following a self-study curriculum consisting of online courses (Udemy, Free 
 - [Lorem Pigsum](https://github.com/ezeYaniv/lorem-pigsum) - An Express-based web app that generates Lorem Ipsum placeholder text...but in Pig Latin. Arpecay iemday! ([link to functioning app](https://lorem-pigsum.herokuapp.com/))
 
 ### What I'm currently studying
-- MERN stack
-- RESTful API design
+- GraphQL API
+- TypeScript
+- React functional components
 
 ### How to reach me
 - [Connect on LinkedIn](https://www.linkedin.com/in/yaniv-brener)
