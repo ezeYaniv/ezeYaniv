@@ -2,7 +2,7 @@
 
 I studied chemical engineering and spent 5 years creating innovative digital solutions for industrial manufacturing problems. During this time, I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. successfully implementing them to solve a business need. I crave learning: software development feels like the natural next step in my career.
 
-I'm following a self-study curriculum consisting of online courses (Udemy, Free Code Camp, Coursera) combined with personal projects to cement those skills. I'm a big believer in curiosity and imagination driving the learning process: my projects come from real problems I want to solve and fun ideas I dream up.
+I'm currently attending a 12-week batch at [the Recurse Center](https://www.recurse.com/), a self-directed educational retreat for programmers. I've always believed that curiosity and imagination should drive the learning process, and I've found a place that fosters that belief. Belonging to a coding community gives me the opportunity to learn from more experienced developers, teach others subjects I'm familiar with, explore new concepts, and develop verbal and collaborative coding skills - the "soft skills" that transform someone who simply writes code well to a good developer and team member.
 
 ---
 
