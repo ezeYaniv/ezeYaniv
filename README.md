@@ -7,6 +7,8 @@ I'm currently attending a 12-week batch at [the Recurse Center](https://www.recu
 ---
 
 ### Repositories I created recently
+- [React + Linting & Formatting Tools](https://github.com/ezeYaniv/linting-format-automation-example) - This project practices integrating ESLint, Prettier, lint-staged and husky to automatically review and format code before or after git actions
+- 
 - [Search Engine Aggregator](https://github.com/ezeYaniv/react-search-aggregator) - A React web app that uses functional components to return search results from a list of search engines ([link to functioning app](https://vercel.com/ezeyaniv/react-search-aggregator))
 - [Kitchen Calc](https://github.com/ezeYaniv/kitchen-calc) - An Express-based web app to multiply recipe ingredients for your desired servings ([link to functioning app](https://kitchen-calc.herokuapp.com/))
 - [Lorem Pigsum](https://github.com/ezeYaniv/lorem-pigsum) - An Express-based web app that generates Lorem Ipsum placeholder text...but in Pig Latin. Arpecay iemday! ([link to functioning app](https://lorem-pigsum.herokuapp.com/))
