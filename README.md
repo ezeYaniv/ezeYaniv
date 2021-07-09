@@ -14,9 +14,10 @@ I'm currently attending a 12-week batch at [the Recurse Center](https://www.recu
 - [Lorem Pigsum](https://github.com/ezeYaniv/lorem-pigsum) - An Express-based web app that generates Lorem Ipsum placeholder text...but in Pig Latin. Arpecay iemday! ([link to functioning app](https://lorem-pigsum.herokuapp.com/))
 
 ### What I'm currently studying
-- GraphQL API
+- GraphQL API & Apollo
 - TypeScript
 - React functional components
+- Gatsby
 
 ### How to reach me
 - [Connect on LinkedIn](https://www.linkedin.com/in/yaniv-brener)
