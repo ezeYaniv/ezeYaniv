@@ -1,6 +1,6 @@
 # Hi, I'm Yaniv.
 
-I studied chemical engineering and spent 5 years implementing digital solutions for industrial manufacturing problems (predictive analytics, industrial IoT, smart dashboards). During this time, I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. using them to solve a business need. I crave learning: software development feels like the natural next step in my career.
+I studied chemical engineering and spent 5 years implementing digital solutions for industrial manufacturing problems (predictive analytics, industrial IoT, smart dashboards). I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. using them to solve a business need. Problem solving and continuous learning is an integral part of software development; it felt like the natural next step in my career.
 
 In August 2021, I finished a 12-week batch at [the Recurse Center](https://www.recurse.com/), a self-directed educational retreat for programmers. I learn best when I'm driven by my own curiosity and imagination; in Recurse, I found a community that encourages self-motivated discovery. Belonging to a coding community gives me the opportunity to learn from more experienced developers, teach others subjects I'm familiar with, explore new concepts, and develop verbal and collaborative coding skills - the "soft skills" that transform someone who simply writes code well to a good developer and team member.
 
