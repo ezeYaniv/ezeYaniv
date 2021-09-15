@@ -7,7 +7,7 @@ In August 2021, I finished a 12-week batch at [the Recurse Center](https://www.r
 ---
 
 ### Repositories I created recently
-- [Rabbit Hole Sealant](https://github.com/ezeYaniv/rabbit-hole-sealant) - A Chrome extension (modernized with Google's Manifest v3!) that hides addicting elements on YouTube videos
+- [Rabbit Hole Sealant](https://github.com/ezeYaniv/rabbit-hole-sealant) - A Chrome extension (compliant to Chrome's latest Manifest v3 spec!) that hides addicting elements on YouTube videos
 - [React + Linting & Formatting Tools](https://github.com/ezeYaniv/linting-format-automation-example) - This project practices integrating ESLint, Prettier, lint-staged and husky to automatically review and format code before or after git actions
 - [Search Engine Aggregator](https://github.com/ezeYaniv/react-search-aggregator) - A React web app that uses functional components to return search results from a list of search engines ([link to functioning app](https://vercel.com/ezeyaniv/react-search-aggregator))
 - [Kitchen Calc](https://github.com/ezeYaniv/kitchen-calc) - An Express-based web app to multiply recipe ingredients for your desired servings ([link to functioning app](https://kitchen-calc.herokuapp.com/))
