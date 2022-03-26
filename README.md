@@ -1,10 +1,12 @@
 # Hi, I'm Yaniv.
 
-In August 2021, I finished a 12-week batch at [the Recurse Center](https://www.recurse.com/), a self-directed educational retreat for programmers. I learn best when I'm driven by my own curiosity and imagination; in Recurse, I found a community that encourages self-motivated discovery. Belonging to a coding community gives me the opportunity to learn from more experienced developers, teach others subjects I'm familiar with, explore new concepts, and develop verbal and collaborative coding skills - the "soft skills" that transform someone who simply writes code well to a good developer and team member.
+🧑‍🔬 I'm a chemical engineer-turned-software developer. I used to work on projects ranging from predictive analytics to alternative fuels, then taught myself to code, and now I work for Beyond 12, an ed tech nonprofit whose mission is to increase college graduation rates for underrepresented students.
 
-I'm also working as a software engineer for a company developing an auction platform. In this role, I am responsible for building out UI views based on Figma design files. My 'building blocks' consist of custom extensible TypeScript React components based on the Material UI framework. I implement functionality by integrating React Router, custom React hooks, and Apollo GraphQL to fetch and modify data from an AWS Amplify backend.
+🏕️ Between those two careers, I attended [the Recurse Center](https://www.recurse.com/), a self-directed educational retreat for programmers; embarked on a year-long backpacking honeymoon around the world (in 2020...you can imagine how that ended); side-hustled as a professional photographer; and watched a LOT of Udemy, Coursera, and YouTube tutorials.
 
-Previously, I studied chemical engineering and spent 5 years implementing digital solutions for industrial manufacturing problems (predictive analytics, industrial IoT, smart dashboards). I realized the two things I loved most about my job were 1. figuring out how to use new technologies and 2. using them to solve a business need. Software development - an industry based on problem solving and continuous learning - felt like the natural next step in my career.
+👾 My specialties include expert Googling, problem solving, grasping core concepts, and learning new skills and languages quickly. So far, I have JavaScript & TypeScript, CSS & Sass, HTML, React, Gatsby, Node.js, Express, Apollo GraphQL, AWS Amplify, and Material UI under my belt. I’m also picking up Python, Django, Google Cloud Platform, Vue & Buefy, and Docker. 
+
+🎹 Outside of coding, I'm an obsessive reader, a keyboardist in funk & jazz bands, a photographer, and an avid nature lover currently into sea foraging and backpacking. 
 
 ---
 
@@ -23,10 +25,10 @@ Previously, I studied chemical engineering and spent 5 years implementing digita
 
 ---
 
-#### Ask me about my hats...
+<!-- #### Ask me about my hats...
 >👨‍🔬 Chemical engineer turned web developer   
 >📸 Photographer (IG: [@here_or_anywhere](https://www.instagram.com/here_or_anywhere/))  
 >🎹 Pianist  
 >🏕️ Avid outdoorsman  
->🐛 Bookworm
+>🐛 Bookworm -->
 <!-- plant dad -->
