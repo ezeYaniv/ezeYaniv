@@ -4,7 +4,7 @@
 
 🏕️ Between those two careers, I attended [the Recurse Center](https://www.recurse.com/), a self-directed educational retreat for programmers; embarked on a year-long backpacking honeymoon around the world (in 2020...you can imagine how that ended); side-hustled as a professional photographer; and watched a LOT of Udemy, Coursera, and YouTube tutorials.
 
-👾 My specialties include expert Googling, problem solving, and learning new skills and languages quickly. So far, I have JavaScript & TypeScript, CSS & Sass, HTML, React, Gatsby, Node.js, Express, Apollo GraphQL, AWS Amplify, and Material UI under my belt. I’m also picking up Python, Django, Google Cloud Platform, Vue & Buefy, and Docker. 
+👾 My specialties include expert Googling, problem solving, and learning new skills and languages quickly. So far, I know Python, JavaScript & TypeScript, CSS & Sass, HTML, React, Vue, Django, Node.js, Express, Apollo GraphQL, Google Cloud Platform, AWS Amplify, Docker, and Material UI.
 
 🎹 Outside of coding, I'm an obsessive reader, a keyboardist in funk & jazz bands, a photographer, and an avid nature lover currently into sea foraging and backpacking. 
 
