@@ -13,6 +13,5 @@
 ### How to reach me
 - [Connect on LinkedIn](https://www.linkedin.com/in/yaniv-brener)
 - [Send me an email](mailto:brener.yaniv@gmail.com)
-- Pronouns: he/him
 
 ---
